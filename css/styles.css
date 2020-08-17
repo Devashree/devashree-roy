@@ -601,7 +601,7 @@ pre code {
   margin-right: -1.5rem;
   margin-left: -1.5rem;
   margin-top: 1rem;
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 .no-gutters {
@@ -10134,12 +10134,11 @@ h3 {
   }
 }
 .masthead {
-  padding-top: calc(6rem + 74px);
-  padding-bottom: 6rem;
+  padding-bottom: 1rem;
 }
 .masthead .masthead-heading {
-  font-size: 2.75rem;
-  line-height: 2.75rem;
+  font-size: 1.5rem;
+  line-height: 1rem;
 }
 .masthead .masthead-subheading {
   font-size: 1.25rem;
