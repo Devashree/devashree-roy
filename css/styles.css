@@ -601,6 +601,7 @@ pre code {
   margin-right: -1.5rem;
   margin-left: -1.5rem;
   margin-top: 1rem;
+  font-size: 2rem;
 }
 
 .no-gutters {
@@ -10145,6 +10146,7 @@ h3 {
 }
 .masthead .masthead-avatar {
   width: 15rem;
+  height: 250px;
 }
 
 @media (min-width: 992px) {
